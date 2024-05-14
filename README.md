@@ -1,18 +1,18 @@
-### Hi there 👋 I'm Aamir Sattar
 
-<!--
-**aamirsattar15/aamirsattar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aamir Sattar</h1>
+<h3 align="center">ML Engineer | AI Engineer | Data Scientist </h3>
 
 # 💫 About Me:
-Love everything related to Python, Data Science, and Machine Learning.
-<br>Currently learning generative AI and LLM's.
-<br>Technical Skills: Python, SQL, Data Visualization (Matplotlib, Seaborn, Plotly), Machine Learning (Scikit-learn, Tensorflow, Pytorch)
-<br>Data Analysis & Insights: Conducted comprehensive data analysis to uncover hidden patterns, trends, and relationships.
-<br>Predictive Modeling: Developed predictive models using various Machine Learning algorithms to solve real-world problems.
-<br>Data Visualization: Created compelling data visualizations to communicate insights effectively to stakeholders.
-<br>Continuous Learning: I am always on the lookout for new and interesting data science problems to solve.
-<br>Let's Connect: Let's connect and discuss how I can bring value to your data initiatives.
-<br>Reach me at aamirsattar15@gmail.com
+- 👀 Love everything related to Python, Data Science, and Machine Learning.
+- 🌱 Currently learning Generative AI, LLM's. 
+- :computer: **Technical Skills:** Python, SQL, Data Visualization (Matplotlib, Seaborn, Plotly), Machine Learning (Scikit-learn, Tensorflow, Pytorch)
+- :bar_chart: **Data Analysis & Insights:** Conducted comprehensive data analysis to uncover hidden patterns, trends, and relationships.
+- :chart_with_upwards_trend: **Predictive Modeling:** Developed predictive models using various Machine Learning algorithms to solve real-world problems.
+- :art: **Data Visualization:** Created compelling data visualizations to communicate insights effectively to stakeholders.
+- :nerd_face: **Continuous Learning:** I am always on the lookout for new and interesting data science problems to solve.
+- :bulb: **Let's Connect:** Let's connect and discuss how I can bring value to your data initiatives.
+- 📫 Reach me at aamirsattar15@gmail.com
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aamirsattar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ml_aamir) 
