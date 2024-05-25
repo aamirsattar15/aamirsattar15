@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aamir Sattar</h1>
-<h3 align="center">ML Engineer | AI Engineer | Data Scientist </h3>
+<h3 align="center">Data Scientist | ML Engineer | AI Engineer </h3>
 
 # 💫 About Me:
 - 👀 Love everything related to Python, Data Science, and Machine Learning.
