@@ -24,6 +24,7 @@
 ### :chart_with_upwards_trend: <strong>Analysis and Forecasting</strong>
 | Project | Link |
 | --- | --- |
+| Fake News detection | https://github.com/aamirsattar15/fake_news_detection |
 | Oil and Gas Data Analysis | https://github.com/aamirsattar15/oil_gas_consumption_Prices_worldwide |
 
 ### ✍️ Random Dev Quote
