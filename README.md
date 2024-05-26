@@ -25,6 +25,7 @@
 | Project | Link |
 | --- | --- |
 | Fake News detection | https://github.com/aamirsattar15/fake_news_detection |
+| Flight Price Prediction | https://github.com/aamirsattar15/flight_price_prediction |
 | Credit Card Fraud detection | https://github.com/aamirsattar15/credit_card_fraud_detection |
 | Oil and Gas Data Analysis | https://github.com/aamirsattar15/oil_gas_consumption_Prices_worldwide |
 
