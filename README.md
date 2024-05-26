@@ -24,6 +24,7 @@
 ### :speech_balloon: <strong>Natural Language Processing</strong>
 | Project | Link |
 | --- | --- |
+| Sentiment Analysis using IMDB Reviews | https://github.com/aamirsattar15/sentiment_analysis_using_imdb_reviews |
 | Fake News detection | https://github.com/aamirsattar15/fake_news_detection |
 
 ### :chart_with_upwards_trend: <strong>Analysis and Forecasting</strong>
