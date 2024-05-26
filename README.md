@@ -11,7 +11,7 @@
 - :art: **Data Visualization:** Created compelling data visualizations to communicate insights effectively to stakeholders.
 - :nerd_face: **Continuous Learning:** I am always on the lookout for new and interesting data science problems to solve.
 - :bulb: **Let's Connect:** Let's connect and discuss how I can bring value to your data initiatives.
-- 📫 Reach me at aamirsattar15@gmail.com
+- 📫 Reach me at aamirsattar15@gmail.com , aamirsattar15@outlook.com
 
 
 ## 🌐 Socials:
