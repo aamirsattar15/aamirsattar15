@@ -24,6 +24,7 @@
 ### :speech_balloon: <strong>Natural Language Processing</strong>
 | Project | Link |
 | --- | --- |
+| Text Classification for NLP using BERT | https://github.com/aamirsattar15/text_classification_for_nlp_using_bert_transformer |
 | Sentiment Analysis using IMDB Reviews | https://github.com/aamirsattar15/sentiment_analysis_using_imdb_reviews |
 | Fake News Detection | https://github.com/aamirsattar15/fake_news_detection |
 
