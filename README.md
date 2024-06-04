@@ -24,7 +24,7 @@
 ### :speech_balloon: <strong>Generative AI, LLM</strong>
 | Project | Link |
 | --- | --- |
-| generative AI using LlamaIndex | https://github.com/aamirsattar15/generative_ai_llamaindex |
+| Generative AI using LlamaIndex | https://github.com/aamirsattar15/generative_ai_llamaindex |
 | Applied AI for NLP | https://github.com/aamirsattar15/applied_ai_nlp_apps |
 
 ### :computer: :goggles: <strong>Deep Leanring, Computer Vision</strong>
